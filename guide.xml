@@ -1,0 +1,2174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VIP:PT - RTP 1">
+    <display-name lang="pt">VIP:PT - RTP 1</display-name>
+    <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/RTP1.png" />
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VIP:PT - RTP 2">
+    <display-name lang="pt">VIP:PT - RTP 2</display-name>
+    <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/RTP2.png" />
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VIP:PT - SIC">
+    <display-name lang="pt">VIP:PT - SIC</display-name>
+    <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/SIC.png" />
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VIP:PT - TVI">
+    <display-name lang="pt">VIP:PT - TVI</display-name>
+    <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/TVI.png" />
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20210710002800 +0100" stop="20210710020000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Soldado Milhões</title>
+  </programme>
+  <programme start="20210710020000 +0100" stop="20210710022700 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Unidos ao Clube T.2 Ep.9</title>
+  </programme>
+  <programme start="20210710022700 +0100" stop="20210710025900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">As Novas Viagens Philosophicas T.1 Ep.3</title>
+  </programme>
+  <programme start="20210710025900 +0100" stop="20210710054600 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210710054600 +0100" stop="20210710063100 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Relíquias Perdidas dos Templários T.1 Ep.1</title>
+  </programme>
+  <programme start="20210710063100 +0100" stop="20210710063900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Little People T.2 Ep.17</title>
+  </programme>
+  <programme start="20210710063900 +0100" stop="20210710064400 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Radar XS T.3 Ep.127</title>
+  </programme>
+  <programme start="20210710064400 +0100" stop="20210710064900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Histórias à Solta T.1 Ep.19</title>
+  </programme>
+  <programme start="20210710064900 +0100" stop="20210710070100 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Gawayn T.1 Ep.48</title>
+  </programme>
+  <programme start="20210710070100 +0100" stop="20210710071600 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Sim, Eu Consigo T.3 Ep.7</title>
+  </programme>
+  <programme start="20210710071600 +0100" stop="20210710073600 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Covil@ZigZag T.1 Ep.11</title>
+  </programme>
+  <programme start="20210710073600 +0100" stop="20210710074700 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Dennis e Gnasher: Os Aventureiros T.1 Ep.21</title>
+  </programme>
+  <programme start="20210710074700 +0100" stop="20210710080000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Radar XS T.3 Ep.128</title>
+  </programme>
+  <programme start="20210710080000 +0100" stop="20210710095700 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20210710095700 +0100" stop="20210710105600 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Extinções T.1 Ep.8</title>
+  </programme>
+  <programme start="20210710105600 +0100" stop="20210710125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Aqui Portugal T.1 Ep.21</title>
+  </programme>
+  <programme start="20210710125900 +0100" stop="20210710141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210710141500 +0100" stop="20210710145900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Hora dos Portugueses T.7 Ep.28</title>
+  </programme>
+  <programme start="20210710145900 +0100" stop="20210710190800 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Aqui Portugal T.1 Ep.21</title>
+  </programme>
+  <programme start="20210710190800 +0100" stop="20210710195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210710195900 +0100" stop="20210710210100 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210710210100 +0100" stop="20210710215400 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Programa Cautelar T.1 Ep.6</title>
+  </programme>
+  <programme start="20210710215400 +0100" stop="20210710232300 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Não Te Esqueças da Letra! T.1 Ep.13</title>
+  </programme>
+  <programme start="20210710232300 +0100" stop="20210710233400 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Euro 2020 - Os Dias do Euro T.1 Ep.30</title>
+  </programme>
+  <programme start="20210710233400 +0100" stop="20210711005200 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Got Talent Portugal - Semifinalistas T.1 Ep.5</title>
+  </programme>
+  <programme start="20210711005200 +0100" stop="20210711022700 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Noites do Euro T.1 Ep.24</title>
+  </programme>
+  <programme start="20210711022700 +0100" stop="20210711042100 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Videovigilância</title>
+  </programme>
+  <programme start="20210711042100 +0100" stop="20210711060800 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210711060800 +0100" stop="20210711063500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Todas as Palavras T.6 Ep.27</title>
+  </programme>
+  <programme start="20210711063500 +0100" stop="20210711064000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Little People T.2 Ep.18</title>
+  </programme>
+  <programme start="20210711064000 +0100" stop="20210711064500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Pequenos Contos de Wismo T.1 Ep.31</title>
+  </programme>
+  <programme start="20210711064500 +0100" stop="20210711065000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Um Minuto de... T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711065000 +0100" stop="20210711070000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Histórias à Solta T.1 Ep.20</title>
+  </programme>
+  <programme start="20210711070000 +0100" stop="20210711071000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Gawayn T.1 Ep.49</title>
+  </programme>
+  <programme start="20210711071000 +0100" stop="20210711073000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Sim, Eu Consigo T.3 Ep.8</title>
+  </programme>
+  <programme start="20210711073000 +0100" stop="20210711074500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Covil@ZigZag T.1 Ep.12</title>
+  </programme>
+  <programme start="20210711074500 +0100" stop="20210711075500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Dennis e Gnasher: Os Aventureiros T.1 Ep.22</title>
+  </programme>
+  <programme start="20210711075500 +0100" stop="20210711080000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Radar XS T.3 Ep.129</title>
+  </programme>
+  <programme start="20210711080000 +0100" stop="20210711103000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  </programme>
+  <programme start="20210711103000 +0100" stop="20210711113000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Eucaristia Dominical</title>
+  </programme>
+  <programme start="20210711113000 +0100" stop="20210711123000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Património Mundial da UNESCO - A Cápsula do Tempo da Natureza T.1 Ep.7</title>
+  </programme>
+  <programme start="20210711123000 +0100" stop="20210711125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Unidos ao Clube T.2 Ep.10</title>
+  </programme>
+  <programme start="20210711125900 +0100" stop="20210711140000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210711140000 +0100" stop="20210711154500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Tudo é Possível</title>
+  </programme>
+  <programme start="20210711154500 +0100" stop="20210711180000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Espião Que Me Tramou</title>
+  </programme>
+  <programme start="20210711180000 +0100" stop="20210711190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">UEFA Euro 2020 - Pré-Match Final</title>
+  </programme>
+  <programme start="20210711190000 +0100" stop="20210711193000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210711193000 +0100" stop="20210711223000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">UEFA Euro 2020 - Itália x Inglaterra - Final</title>
+  </programme>
+  <programme start="20210711223000 +0100" stop="20210712001500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Got Talent Portugal</title>
+  </programme>
+  <programme start="20210712001500 +0100" stop="20210712003000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Euro 2020 - Os Dias do Euro T.1 Ep.31</title>
+  </programme>
+  <programme start="20210712003000 +0100" stop="20210712021500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Conspiração Terrorista</title>
+  </programme>
+  <programme start="20210712021500 +0100" stop="20210712034500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Noites do Euro T.1 Ep.25</title>
+  </programme>
+  <programme start="20210712034500 +0100" stop="20210712060000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210712060000 +0100" stop="20210712063000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210712063000 +0100" stop="20210712100000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210712100000 +0100" stop="20210712125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.1</title>
+  </programme>
+  <programme start="20210712125900 +0100" stop="20210712141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210712141500 +0100" stop="20210712151500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Nossos Dias T.1 Ep.124</title>
+  </programme>
+  <programme start="20210712151500 +0100" stop="20210712173000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.1</title>
+  </programme>
+  <programme start="20210712173000 +0100" stop="20210712190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210712190000 +0100" stop="20210712195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210712195900 +0100" stop="20210712210000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210712210000 +0100" stop="20210712214500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Primeira Pessoa T.2 Ep.3</title>
+  </programme>
+  <programme start="20210712214500 +0100" stop="20210712230000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Joker T.5 Ep.101</title>
+  </programme>
+  <programme start="20210712230000 +0100" stop="20210712233000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Começar de novo T.1 Ep.13</title>
+  </programme>
+  <programme start="20210712233000 +0100" stop="20210713000000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Começar de novo T.1 Ep.14</title>
+  </programme>
+  <programme start="20210713000000 +0100" stop="20210713013000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Eléctrico T.2 Ep.13</title>
+  </programme>
+  <programme start="20210713013000 +0100" stop="20210713021500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Relíquias Perdidas dos Templários T.1 Ep.2</title>
+  </programme>
+  <programme start="20210713021500 +0100" stop="20210713031500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Património Mundial da UNESCO - A Cápsula do Tempo da Natureza T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713031500 +0100" stop="20210713055900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210713055900 +0100" stop="20210713063000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210713063000 +0100" stop="20210713100000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210713100000 +0100" stop="20210713125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.2</title>
+  </programme>
+  <programme start="20210713125900 +0100" stop="20210713141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210713141500 +0100" stop="20210713151500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Nossos Dias T.1 Ep.125</title>
+  </programme>
+  <programme start="20210713151500 +0100" stop="20210713173000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.2</title>
+  </programme>
+  <programme start="20210713173000 +0100" stop="20210713190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210713190000 +0100" stop="20210713194500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210713194500 +0100" stop="20210713195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Direito de Antena</title>
+  </programme>
+  <programme start="20210713195900 +0100" stop="20210713210000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210713210000 +0100" stop="20210713213000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">PCP: 100 anos a resistir T.1 Ep.1</title>
+  </programme>
+  <programme start="20210713213000 +0100" stop="20210713224500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Joker T.5 Ep.1</title>
+  </programme>
+  <programme start="20210713224500 +0100" stop="20210714003000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Fronteiras XXI T.5 Ep.4</title>
+  </programme>
+  <programme start="20210714003000 +0100" stop="20210714024500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Mr. Klein - Um Homem na Sombra</title>
+  </programme>
+  <programme start="20210714024500 +0100" stop="20210714030000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Europa Minha T.5 Ep.15</title>
+  </programme>
+  <programme start="20210714030000 +0100" stop="20210714055900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210714055900 +0100" stop="20210714063000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210714063000 +0100" stop="20210714100000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210714100000 +0100" stop="20210714125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.3</title>
+  </programme>
+  <programme start="20210714125900 +0100" stop="20210714141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210714141500 +0100" stop="20210714151500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Nossos Dias T.1 Ep.126</title>
+  </programme>
+  <programme start="20210714151500 +0100" stop="20210714173000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.3</title>
+  </programme>
+  <programme start="20210714173000 +0100" stop="20210714190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210714190000 +0100" stop="20210714195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210714195900 +0100" stop="20210714210000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210714210000 +0100" stop="20210714213000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Que Ficará dos Fundos Europeus T.1 Ep.1</title>
+  </programme>
+  <programme start="20210714213000 +0100" stop="20210714224500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Joker T.5 Ep.22</title>
+  </programme>
+  <programme start="20210714224500 +0100" stop="20210714234500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Cá por Casa com Herman José - Especial Nelo e Idália</title>
+  </programme>
+  <programme start="20210714234500 +0100" stop="20210715004500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Programa a Designar</title>
+  </programme>
+  <programme start="20210715004500 +0100" stop="20210715013000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Gerente da Noite T.1 Ep.6</title>
+  </programme>
+  <programme start="20210715013000 +0100" stop="20210715023000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Janela Indiscreta T.13 Ep.28</title>
+  </programme>
+  <programme start="20210715023000 +0100" stop="20210715033000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Grande Entrevista T.14 Ep.26</title>
+  </programme>
+  <programme start="20210715033000 +0100" stop="20210715055900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210715055900 +0100" stop="20210715063000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210715063000 +0100" stop="20210715100000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210715100000 +0100" stop="20210715125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.4</title>
+  </programme>
+  <programme start="20210715125900 +0100" stop="20210715141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210715141500 +0100" stop="20210715151500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Nossos Dias T.1 Ep.127</title>
+  </programme>
+  <programme start="20210715151500 +0100" stop="20210715173000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.4</title>
+  </programme>
+  <programme start="20210715173000 +0100" stop="20210715190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210715190000 +0100" stop="20210715194500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210715194500 +0100" stop="20210715195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Direito de Antena</title>
+  </programme>
+  <programme start="20210715195900 +0100" stop="20210715210000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210715210000 +0100" stop="20210715213000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Que Ficará dos Fundos Europeus T.1 Ep.2</title>
+  </programme>
+  <programme start="20210715213000 +0100" stop="20210715224500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Joker T.5 Ep.102</title>
+  </programme>
+  <programme start="20210715224500 +0100" stop="20210715231500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Sem Fronteiras T.1 Ep.6</title>
+  </programme>
+  <programme start="20210715231500 +0100" stop="20210716000000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Sem Fronteiras T.1 Ep.7</title>
+  </programme>
+  <programme start="20210716000000 +0100" stop="20210716010000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Programa a Designar</title>
+  </programme>
+  <programme start="20210716010000 +0100" stop="20210716014500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Iskander T.1 Ep.4</title>
+  </programme>
+  <programme start="20210716014500 +0100" stop="20210716024500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Programa a Designar</title>
+  </programme>
+  <programme start="20210716024500 +0100" stop="20210716030000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">De Lisboa a Estocolmo T.1 Ep.11</title>
+  </programme>
+  <programme start="20210716030000 +0100" stop="20210716055900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210716055900 +0100" stop="20210716063000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Manchetes 3</title>
+  </programme>
+  <programme start="20210716063000 +0100" stop="20210716100000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
+  </programme>
+  <programme start="20210716100000 +0100" stop="20210716125900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.5</title>
+  </programme>
+  <programme start="20210716125900 +0100" stop="20210716141500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210716141500 +0100" stop="20210716151500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Os Nossos Dias T.1 Ep.128</title>
+  </programme>
+  <programme start="20210716151500 +0100" stop="20210716173000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">7 Maravilhas da Nova Gastronomia T.1 Ep.5</title>
+  </programme>
+  <programme start="20210716173000 +0100" stop="20210716190000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Portugal em Direto</title>
+  </programme>
+  <programme start="20210716190000 +0100" stop="20210716195900 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210716195900 +0100" stop="20210716210000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210716210000 +0100" stop="20210716214500 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Sexta às 9 T.10 Ep.27</title>
+  </programme>
+  <programme start="20210716214500 +0100" stop="20210716230000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Joker T.5 Ep.47</title>
+  </programme>
+  <programme start="20210716230000 +0100" stop="20210717003000 +0100" channel="VIP:PT - RTP 1">
+    <title lang="pt">Depois, Vai-se a Ver e Nada T.2 Ep.4</title>
+  </programme>
+  <programme start="20210710005800 +0100" stop="20210710015000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Super Diva - Ópera Para Todos T.3 Ep.3</title>
+  </programme>
+  <programme start="20210710015000 +0100" stop="20210710054500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210710054500 +0100" stop="20210710063200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Água de Mar T.1 Ep.29</title>
+  </programme>
+  <programme start="20210710063200 +0100" stop="20210710070000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210710070000 +0100" stop="20210710080200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210710080200 +0100" stop="20210710081500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.13</title>
+  </programme>
+  <programme start="20210710081500 +0100" stop="20210710082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.66</title>
+  </programme>
+  <programme start="20210710082000 +0100" stop="20210710082700 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.67</title>
+  </programme>
+  <programme start="20210710082700 +0100" stop="20210710083500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.4</title>
+  </programme>
+  <programme start="20210710083500 +0100" stop="20210710084200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.5</title>
+  </programme>
+  <programme start="20210710084200 +0100" stop="20210710085400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.20</title>
+  </programme>
+  <programme start="20210710085400 +0100" stop="20210710090600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.21</title>
+  </programme>
+  <programme start="20210710090600 +0100" stop="20210710093700 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.2 Ep.1</title>
+  </programme>
+  <programme start="20210710093700 +0100" stop="20210710094800 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.1</title>
+  </programme>
+  <programme start="20210710094800 +0100" stop="20210710095900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.2</title>
+  </programme>
+  <programme start="20210710095900 +0100" stop="20210710100600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.13</title>
+  </programme>
+  <programme start="20210710100600 +0100" stop="20210710101700 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.31</title>
+  </programme>
+  <programme start="20210710101700 +0100" stop="20210710102900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.6</title>
+  </programme>
+  <programme start="20210710102900 +0100" stop="20210710104100 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.1</title>
+  </programme>
+  <programme start="20210710104100 +0100" stop="20210710110200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Aventuras de Ladybug T.3 Ep.19</title>
+  </programme>
+  <programme start="20210710110200 +0100" stop="20210710112400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Aventuras de Ladybug T.3 Ep.20</title>
+  </programme>
+  <programme start="20210710112400 +0100" stop="20210710113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.2 Ep.40</title>
+  </programme>
+  <programme start="20210710113500 +0100" stop="20210710114700 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.2 Ep.41</title>
+  </programme>
+  <programme start="20210710114700 +0100" stop="20210710115800 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.21</title>
+  </programme>
+  <programme start="20210710115800 +0100" stop="20210710120900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.22</title>
+  </programme>
+  <programme start="20210710120900 +0100" stop="20210710121400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.2 Ep.1</title>
+  </programme>
+  <programme start="20210710121400 +0100" stop="20210710123500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.1</title>
+  </programme>
+  <programme start="20210710123500 +0100" stop="20210710125600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.2</title>
+  </programme>
+  <programme start="20210710125600 +0100" stop="20210710131800 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Amanhecer dos Croods T.1 Ep.8</title>
+  </programme>
+  <programme start="20210710131800 +0100" stop="20210710132500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.88</title>
+  </programme>
+  <programme start="20210710132500 +0100" stop="20210710133300 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.89</title>
+  </programme>
+  <programme start="20210710133300 +0100" stop="20210710134400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.23</title>
+  </programme>
+  <programme start="20210710134400 +0100" stop="20210710135800 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.24</title>
+  </programme>
+  <programme start="20210710135800 +0100" stop="20210710140500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210710140500 +0100" stop="20210710162200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.14</title>
+  </programme>
+  <programme start="20210710162200 +0100" stop="20210710163900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cuidado com a Língua! T.4 Ep.10</title>
+  </programme>
+  <programme start="20210710163900 +0100" stop="20210710172900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Nicolas Le Floch T.5 Ep.2</title>
+  </programme>
+  <programme start="20210710172900 +0100" stop="20210710182900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Expresso do Oriente - Um Comboio Escreve História</title>
+  </programme>
+  <programme start="20210710182900 +0100" stop="20210710192400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Candice Renoir T.8 Ep.9</title>
+  </programme>
+  <programme start="20210710192400 +0100" stop="20210710212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Louis Van Beethoven</title>
+  </programme>
+  <programme start="20210710212500 +0100" stop="20210710213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210710213000 +0100" stop="20210710214800 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210710214800 +0100" stop="20210710220300 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Página 2</title>
+  </programme>
+  <programme start="20210710220300 +0100" stop="20210710232400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Festival ao Largo - Batidas do Destino</title>
+  </programme>
+  <programme start="20210710232400 +0100" stop="20210711011400 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Lavado Em Lágrimas</title>
+  </programme>
+  <programme start="20210711011400 +0100" stop="20210711025900 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Woman - Mulher</title>
+  </programme>
+  <programme start="20210711025900 +0100" stop="20210711070000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210711070000 +0100" stop="20210711080200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210711080200 +0100" stop="20210711082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.14</title>
+  </programme>
+  <programme start="20210711082000 +0100" stop="20210711082500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.68</title>
+  </programme>
+  <programme start="20210711082500 +0100" stop="20210711083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.69</title>
+  </programme>
+  <programme start="20210711083000 +0100" stop="20210711083500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.6</title>
+  </programme>
+  <programme start="20210711083500 +0100" stop="20210711084500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.7</title>
+  </programme>
+  <programme start="20210711084500 +0100" stop="20210711085500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.22</title>
+  </programme>
+  <programme start="20210711085500 +0100" stop="20210711091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.23</title>
+  </programme>
+  <programme start="20210711091000 +0100" stop="20210711092000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.1</title>
+  </programme>
+  <programme start="20210711092000 +0100" stop="20210711093000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.2</title>
+  </programme>
+  <programme start="20210711093000 +0100" stop="20210711094000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711094000 +0100" stop="20210711095500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.4</title>
+  </programme>
+  <programme start="20210711095500 +0100" stop="20210711100500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.14</title>
+  </programme>
+  <programme start="20210711100500 +0100" stop="20210711102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.32</title>
+  </programme>
+  <programme start="20210711102000 +0100" stop="20210711103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.7</title>
+  </programme>
+  <programme start="20210711103000 +0100" stop="20210711104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.2</title>
+  </programme>
+  <programme start="20210711104000 +0100" stop="20210711110000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711110000 +0100" stop="20210711112500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Aventuras de Ladybug T.3 Ep.21</title>
+  </programme>
+  <programme start="20210711112500 +0100" stop="20210711114500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Aventuras de Ladybug T.3 Ep.22</title>
+  </programme>
+  <programme start="20210711114500 +0100" stop="20210711115500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.2 Ep.42</title>
+  </programme>
+  <programme start="20210711115500 +0100" stop="20210711120500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.2 Ep.43</title>
+  </programme>
+  <programme start="20210711120500 +0100" stop="20210711121500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.25</title>
+  </programme>
+  <programme start="20210711121500 +0100" stop="20210711122000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.26</title>
+  </programme>
+  <programme start="20210711122000 +0100" stop="20210711124000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711124000 +0100" stop="20210711130500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.4</title>
+  </programme>
+  <programme start="20210711130500 +0100" stop="20210711132500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Amanhecer dos Croods T.1 Ep.9</title>
+  </programme>
+  <programme start="20210711132500 +0100" stop="20210711133000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.90</title>
+  </programme>
+  <programme start="20210711133000 +0100" stop="20210711134000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.91</title>
+  </programme>
+  <programme start="20210711134000 +0100" stop="20210711135000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.27</title>
+  </programme>
+  <programme start="20210711135000 +0100" stop="20210711135500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.28</title>
+  </programme>
+  <programme start="20210711135500 +0100" stop="20210711142500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Degrassi: A Turma Seguinte T.2 Ep.9</title>
+  </programme>
+  <programme start="20210711142500 +0100" stop="20210711144500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Degrassi: A Turma Seguinte T.2 Ep.10</title>
+  </programme>
+  <programme start="20210711144500 +0100" stop="20210711145000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210711145000 +0100" stop="20210711171000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.15</title>
+  </programme>
+  <programme start="20210711171000 +0100" stop="20210711174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Caminhos</title>
+  </programme>
+  <programme start="20210711174000 +0100" stop="20210711181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">70x7</title>
+  </programme>
+  <programme start="20210711181000 +0100" stop="20210711190000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Nicolas Le Floch T.5 Ep.3</title>
+  </programme>
+  <programme start="20210711190000 +0100" stop="20210711200000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Planetário de Tóquio</title>
+  </programme>
+  <programme start="20210711200000 +0100" stop="20210711203000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Sabedoria de Alexandria</title>
+  </programme>
+  <programme start="20210711203000 +0100" stop="20210711212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Bairro Português de Malaca</title>
+  </programme>
+  <programme start="20210711212500 +0100" stop="20210711213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210711213000 +0100" stop="20210711214500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210711214500 +0100" stop="20210711220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Página 2</title>
+  </programme>
+  <programme start="20210711220000 +0100" stop="20210711230000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Paris Polícia 1900 T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711230000 +0100" stop="20210712000000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Câmara Clara T.7 Ep.21</title>
+  </programme>
+  <programme start="20210712000000 +0100" stop="20210712004500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Aqui Está-se Sossegado</title>
+  </programme>
+  <programme start="20210712004500 +0100" stop="20210712022000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ingmar Bergman - A Vida e Obra do Génio</title>
+  </programme>
+  <programme start="20210712022000 +0100" stop="20210712070200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210712070200 +0100" stop="20210712072500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.42</title>
+  </programme>
+  <programme start="20210712072500 +0100" stop="20210712074000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.30</title>
+  </programme>
+  <programme start="20210712074000 +0100" stop="20210712075000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.21</title>
+  </programme>
+  <programme start="20210712075000 +0100" stop="20210712075500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.21</title>
+  </programme>
+  <programme start="20210712075500 +0100" stop="20210712080000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.76</title>
+  </programme>
+  <programme start="20210712080000 +0100" stop="20210712081000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.8</title>
+  </programme>
+  <programme start="20210712081000 +0100" stop="20210712082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.9</title>
+  </programme>
+  <programme start="20210712082000 +0100" stop="20210712083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.11</title>
+  </programme>
+  <programme start="20210712083000 +0100" stop="20210712084000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.12</title>
+  </programme>
+  <programme start="20210712084000 +0100" stop="20210712085000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.5</title>
+  </programme>
+  <programme start="20210712085000 +0100" stop="20210712090000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.29</title>
+  </programme>
+  <programme start="20210712090000 +0100" stop="20210712091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.30</title>
+  </programme>
+  <programme start="20210712091000 +0100" stop="20210712091500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.130</title>
+  </programme>
+  <programme start="20210712091500 +0100" stop="20210712092500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.40</title>
+  </programme>
+  <programme start="20210712092500 +0100" stop="20210712093500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.41</title>
+  </programme>
+  <programme start="20210712093500 +0100" stop="20210712095000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.41</title>
+  </programme>
+  <programme start="20210712095000 +0100" stop="20210712101000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.42</title>
+  </programme>
+  <programme start="20210712101000 +0100" stop="20210712102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.7</title>
+  </programme>
+  <programme start="20210712102000 +0100" stop="20210712103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.8</title>
+  </programme>
+  <programme start="20210712103000 +0100" stop="20210712104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712104000 +0100" stop="20210712105000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712105000 +0100" stop="20210712105500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712105500 +0100" stop="20210712110500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">ExperimentArte T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712110500 +0100" stop="20210712112000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712112000 +0100" stop="20210712113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Monstrolândia T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712113500 +0100" stop="20210712120000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Drama Total All-Stars T.1 Ep.6</title>
+  </programme>
+  <programme start="20210712120000 +0100" stop="20210712130000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Chegou a Felicidade T.2 Ep.14</title>
+  </programme>
+  <programme start="20210712130000 +0100" stop="20210712133000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social T.11 Ep.8</title>
+  </programme>
+  <programme start="20210712133000 +0100" stop="20210712135500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Novas Viagens Philosophicas T.1 Ep.2</title>
+  </programme>
+  <programme start="20210712135500 +0100" stop="20210712140000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210712140000 +0100" stop="20210712150000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">No Reino dos Bijagós T.1 Ep.2</title>
+  </programme>
+  <programme start="20210712150000 +0100" stop="20210712153000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20210712153000 +0100" stop="20210712160000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Fabrico Nacional T.1 Ep.3</title>
+  </programme>
+  <programme start="20210712160000 +0100" stop="20210712170100 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Antropoceno - A Ascensão dos Humanos T.1 Ep.2</title>
+  </programme>
+  <programme start="20210712170100 +0100" stop="20210712172000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.38</title>
+  </programme>
+  <programme start="20210712172000 +0100" stop="20210712173000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.19</title>
+  </programme>
+  <programme start="20210712173000 +0100" stop="20210712174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.17</title>
+  </programme>
+  <programme start="20210712174000 +0100" stop="20210712175000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.39</title>
+  </programme>
+  <programme start="20210712175000 +0100" stop="20210712180000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.40</title>
+  </programme>
+  <programme start="20210712180000 +0100" stop="20210712181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.21</title>
+  </programme>
+  <programme start="20210712181000 +0100" stop="20210712182000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.22</title>
+  </programme>
+  <programme start="20210712182000 +0100" stop="20210712183000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.7</title>
+  </programme>
+  <programme start="20210712183000 +0100" stop="20210712184000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.8</title>
+  </programme>
+  <programme start="20210712184000 +0100" stop="20210712185000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.4</title>
+  </programme>
+  <programme start="20210712185000 +0100" stop="20210712190000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.5</title>
+  </programme>
+  <programme start="20210712190000 +0100" stop="20210712191000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.130</title>
+  </programme>
+  <programme start="20210712191000 +0100" stop="20210712192000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.30</title>
+  </programme>
+  <programme start="20210712192000 +0100" stop="20210712193000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.31</title>
+  </programme>
+  <programme start="20210712193000 +0100" stop="20210712195000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Amanhecer dos Croods T.1 Ep.12</title>
+  </programme>
+  <programme start="20210712195000 +0100" stop="20210712201000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.8</title>
+  </programme>
+  <programme start="20210712201000 +0100" stop="20210712201500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.5</title>
+  </programme>
+  <programme start="20210712201500 +0100" stop="20210712202000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.93</title>
+  </programme>
+  <programme start="20210712202000 +0100" stop="20210712202500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.1 Ep.8</title>
+  </programme>
+  <programme start="20210712202500 +0100" stop="20210712212000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Grandes Mentiras da História T.1 Ep.9</title>
+  </programme>
+  <programme start="20210712212000 +0100" stop="20210712212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Hora da Sorte: Lotaria Nacional</title>
+  </programme>
+  <programme start="20210712212500 +0100" stop="20210712213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210712213000 +0100" stop="20210712220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210712220000 +0100" stop="20210712225500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">De Gaulle - Prestígio e Intimidade T.1 Ep.4</title>
+  </programme>
+  <programme start="20210712225500 +0100" stop="20210713002500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Um Amor do Tamanho do Mundo</title>
+  </programme>
+  <programme start="20210713002500 +0100" stop="20210713012000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Agência Clandestina T.5 Ep.10</title>
+  </programme>
+  <programme start="20210713012000 +0100" stop="20210713015000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Esec-Tv T.13 Ep.27</title>
+  </programme>
+  <programme start="20210713015000 +0100" stop="20210713054500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210713054500 +0100" stop="20210713063200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Água de Mar T.1 Ep.30</title>
+  </programme>
+  <programme start="20210713063200 +0100" stop="20210713070200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210713070200 +0100" stop="20210713072600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.43</title>
+  </programme>
+  <programme start="20210713072600 +0100" stop="20210713074000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.31</title>
+  </programme>
+  <programme start="20210713074000 +0100" stop="20210713075000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.22</title>
+  </programme>
+  <programme start="20210713075000 +0100" stop="20210713075500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.22</title>
+  </programme>
+  <programme start="20210713075500 +0100" stop="20210713080000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.77</title>
+  </programme>
+  <programme start="20210713080000 +0100" stop="20210713081000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.9</title>
+  </programme>
+  <programme start="20210713081000 +0100" stop="20210713082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.10</title>
+  </programme>
+  <programme start="20210713082000 +0100" stop="20210713083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.13</title>
+  </programme>
+  <programme start="20210713083000 +0100" stop="20210713084000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.14</title>
+  </programme>
+  <programme start="20210713084000 +0100" stop="20210713085000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.6</title>
+  </programme>
+  <programme start="20210713085000 +0100" stop="20210713090000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.31</title>
+  </programme>
+  <programme start="20210713090000 +0100" stop="20210713091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.32</title>
+  </programme>
+  <programme start="20210713091000 +0100" stop="20210713092500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.41</title>
+  </programme>
+  <programme start="20210713092500 +0100" stop="20210713093500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.42</title>
+  </programme>
+  <programme start="20210713093500 +0100" stop="20210713095000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.43</title>
+  </programme>
+  <programme start="20210713095000 +0100" stop="20210713101000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.44</title>
+  </programme>
+  <programme start="20210713101000 +0100" stop="20210713102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.8</title>
+  </programme>
+  <programme start="20210713102000 +0100" stop="20210713103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.9</title>
+  </programme>
+  <programme start="20210713103000 +0100" stop="20210713104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713104000 +0100" stop="20210713105000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713105000 +0100" stop="20210713105500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713105500 +0100" stop="20210713110500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">ExperimentArte T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713110500 +0100" stop="20210713112000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713112000 +0100" stop="20210713113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Monstrolândia T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713113500 +0100" stop="20210713120000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Drama Total All-Stars T.1 Ep.7</title>
+  </programme>
+  <programme start="20210713120000 +0100" stop="20210713130000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Chegou a Felicidade T.2 Ep.15</title>
+  </programme>
+  <programme start="20210713130000 +0100" stop="20210713133000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Freguesias da Madeira T.1 Ep.1</title>
+  </programme>
+  <programme start="20210713133000 +0100" stop="20210713140000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Novas Viagens Philosophicas T.1 Ep.3</title>
+  </programme>
+  <programme start="20210713140000 +0100" stop="20210713140500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210713140500 +0100" stop="20210713143500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20210713143500 +0100" stop="20210713165000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.16</title>
+  </programme>
+  <programme start="20210713165000 +0100" stop="20210713170000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cuidado com a Língua! T.4 Ep.4</title>
+  </programme>
+  <programme start="20210713170000 +0100" stop="20210713172000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.39</title>
+  </programme>
+  <programme start="20210713172000 +0100" stop="20210713173000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.20</title>
+  </programme>
+  <programme start="20210713173000 +0100" stop="20210713174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.18</title>
+  </programme>
+  <programme start="20210713174000 +0100" stop="20210713175000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.41</title>
+  </programme>
+  <programme start="20210713175000 +0100" stop="20210713180000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.42</title>
+  </programme>
+  <programme start="20210713180000 +0100" stop="20210713181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.23</title>
+  </programme>
+  <programme start="20210713181000 +0100" stop="20210713182000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.24</title>
+  </programme>
+  <programme start="20210713182000 +0100" stop="20210713183000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.9</title>
+  </programme>
+  <programme start="20210713183000 +0100" stop="20210713184000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.10</title>
+  </programme>
+  <programme start="20210713184000 +0100" stop="20210713185000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.5</title>
+  </programme>
+  <programme start="20210713185000 +0100" stop="20210713190500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.6</title>
+  </programme>
+  <programme start="20210713190500 +0100" stop="20210713191500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.32</title>
+  </programme>
+  <programme start="20210713191500 +0100" stop="20210713193000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.33</title>
+  </programme>
+  <programme start="20210713193000 +0100" stop="20210713195000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Covil@ZigZag T.1 Ep.13</title>
+  </programme>
+  <programme start="20210713195000 +0100" stop="20210713201500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.9</title>
+  </programme>
+  <programme start="20210713201500 +0100" stop="20210713202000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.6</title>
+  </programme>
+  <programme start="20210713202000 +0100" stop="20210713202500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.94</title>
+  </programme>
+  <programme start="20210713202500 +0100" stop="20210713203000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.1 Ep.8</title>
+  </programme>
+  <programme start="20210713203000 +0100" stop="20210713212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Grandes Mentiras da História T.1 Ep.10</title>
+  </programme>
+  <programme start="20210713212500 +0100" stop="20210713213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210713213000 +0100" stop="20210713220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210713220000 +0100" stop="20210713225500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">De Gaulle - Prestígio e Intimidade T.1 Ep.5</title>
+  </programme>
+  <programme start="20210713225500 +0100" stop="20210713234500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Covideos T.1 Ep.1</title>
+  </programme>
+  <programme start="20210713234500 +0100" stop="20210714003000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Linha Invisível T.1 Ep.2</title>
+  </programme>
+  <programme start="20210714003000 +0100" stop="20210714010000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Eurodeputados</title>
+  </programme>
+  <programme start="20210714010000 +0100" stop="20210714013000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social T.11 Ep.8</title>
+  </programme>
+  <programme start="20210714013000 +0100" stop="20210714054500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210714054500 +0100" stop="20210714063200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Água de Mar T.1 Ep.31</title>
+  </programme>
+  <programme start="20210714063200 +0100" stop="20210714070200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210714070200 +0100" stop="20210714072600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.44</title>
+  </programme>
+  <programme start="20210714072600 +0100" stop="20210714074000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.32</title>
+  </programme>
+  <programme start="20210714074000 +0100" stop="20210714075000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.23</title>
+  </programme>
+  <programme start="20210714075000 +0100" stop="20210714075500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.23</title>
+  </programme>
+  <programme start="20210714075500 +0100" stop="20210714080000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.78</title>
+  </programme>
+  <programme start="20210714080000 +0100" stop="20210714081000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.10</title>
+  </programme>
+  <programme start="20210714081000 +0100" stop="20210714082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.11</title>
+  </programme>
+  <programme start="20210714082000 +0100" stop="20210714083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.15</title>
+  </programme>
+  <programme start="20210714083000 +0100" stop="20210714084000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.16</title>
+  </programme>
+  <programme start="20210714084000 +0100" stop="20210714085000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.7</title>
+  </programme>
+  <programme start="20210714085000 +0100" stop="20210714090000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.33</title>
+  </programme>
+  <programme start="20210714090000 +0100" stop="20210714091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.34</title>
+  </programme>
+  <programme start="20210714091000 +0100" stop="20210714091500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.131</title>
+  </programme>
+  <programme start="20210714091500 +0100" stop="20210714092500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.42</title>
+  </programme>
+  <programme start="20210714092500 +0100" stop="20210714093500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.43</title>
+  </programme>
+  <programme start="20210714093500 +0100" stop="20210714095000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.45</title>
+  </programme>
+  <programme start="20210714095000 +0100" stop="20210714101000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.46</title>
+  </programme>
+  <programme start="20210714101000 +0100" stop="20210714102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.9</title>
+  </programme>
+  <programme start="20210714102000 +0100" stop="20210714103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.10</title>
+  </programme>
+  <programme start="20210714103000 +0100" stop="20210714104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714104000 +0100" stop="20210714105000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714105000 +0100" stop="20210714105500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714105500 +0100" stop="20210714110500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">ExperimentArte T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714110500 +0100" stop="20210714112000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714112000 +0100" stop="20210714113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Monstrolândia T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714113500 +0100" stop="20210714120000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Drama Total All-Stars T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714120000 +0100" stop="20210714130000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Chegou a Felicidade T.2 Ep.16</title>
+  </programme>
+  <programme start="20210714130000 +0100" stop="20210714135000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Freguesias da Madeira T.1 Ep.2</title>
+  </programme>
+  <programme start="20210714135000 +0100" stop="20210714141000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210714141000 +0100" stop="20210714144000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20210714144000 +0100" stop="20210714163000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.17</title>
+  </programme>
+  <programme start="20210714163000 +0100" stop="20210714170000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Geoparque Açores T.1 Ep.2</title>
+  </programme>
+  <programme start="20210714170000 +0100" stop="20210714172000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.40</title>
+  </programme>
+  <programme start="20210714172000 +0100" stop="20210714173000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.21</title>
+  </programme>
+  <programme start="20210714173000 +0100" stop="20210714174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.19</title>
+  </programme>
+  <programme start="20210714174000 +0100" stop="20210714175000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.43</title>
+  </programme>
+  <programme start="20210714175000 +0100" stop="20210714180000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.44</title>
+  </programme>
+  <programme start="20210714180000 +0100" stop="20210714181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.25</title>
+  </programme>
+  <programme start="20210714181000 +0100" stop="20210714182000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.26</title>
+  </programme>
+  <programme start="20210714182000 +0100" stop="20210714183000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.11</title>
+  </programme>
+  <programme start="20210714183000 +0100" stop="20210714184000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.12</title>
+  </programme>
+  <programme start="20210714184000 +0100" stop="20210714185000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.6</title>
+  </programme>
+  <programme start="20210714185000 +0100" stop="20210714190000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.7</title>
+  </programme>
+  <programme start="20210714190000 +0100" stop="20210714191000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.131</title>
+  </programme>
+  <programme start="20210714191000 +0100" stop="20210714192000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.34</title>
+  </programme>
+  <programme start="20210714192000 +0100" stop="20210714193000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.35</title>
+  </programme>
+  <programme start="20210714193000 +0100" stop="20210714195000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Amanhecer dos Croods T.1 Ep.13</title>
+  </programme>
+  <programme start="20210714195000 +0100" stop="20210714201500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.10</title>
+  </programme>
+  <programme start="20210714201500 +0100" stop="20210714202000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.7</title>
+  </programme>
+  <programme start="20210714202000 +0100" stop="20210714202500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.95</title>
+  </programme>
+  <programme start="20210714202500 +0100" stop="20210714203000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.1 Ep.8</title>
+  </programme>
+  <programme start="20210714203000 +0100" stop="20210714212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Grandes Mentiras da História T.1 Ep.11</title>
+  </programme>
+  <programme start="20210714212500 +0100" stop="20210714213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210714213000 +0100" stop="20210714220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210714220000 +0100" stop="20210714225500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">De Gaulle - Prestígio e Intimidade T.1 Ep.6</title>
+  </programme>
+  <programme start="20210714225500 +0100" stop="20210714233000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Impaciência do Coração T.1 Ep.5</title>
+  </programme>
+  <programme start="20210714233000 +0100" stop="20210714235500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Irresponsável T.2 Ep.10</title>
+  </programme>
+  <programme start="20210714235500 +0100" stop="20210715002500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">No Ar T.3 Ep.15</title>
+  </programme>
+  <programme start="20210715002500 +0100" stop="20210715014000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Mulheres na Arte</title>
+  </programme>
+  <programme start="20210715014000 +0100" stop="20210715054500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210715054500 +0100" stop="20210715063200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Água de Mar T.1 Ep.32</title>
+  </programme>
+  <programme start="20210715063200 +0100" stop="20210715070200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210715070200 +0100" stop="20210715072600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.45</title>
+  </programme>
+  <programme start="20210715072600 +0100" stop="20210715074000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.33</title>
+  </programme>
+  <programme start="20210715074000 +0100" stop="20210715075000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.24</title>
+  </programme>
+  <programme start="20210715075000 +0100" stop="20210715075500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.24</title>
+  </programme>
+  <programme start="20210715075500 +0100" stop="20210715080000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.79</title>
+  </programme>
+  <programme start="20210715080000 +0100" stop="20210715081000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.11</title>
+  </programme>
+  <programme start="20210715081000 +0100" stop="20210715082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.12</title>
+  </programme>
+  <programme start="20210715082000 +0100" stop="20210715083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.17</title>
+  </programme>
+  <programme start="20210715083000 +0100" stop="20210715084000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.18</title>
+  </programme>
+  <programme start="20210715084000 +0100" stop="20210715085000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.8</title>
+  </programme>
+  <programme start="20210715085000 +0100" stop="20210715090000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.35</title>
+  </programme>
+  <programme start="20210715090000 +0100" stop="20210715091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.36</title>
+  </programme>
+  <programme start="20210715091000 +0100" stop="20210715092500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.43</title>
+  </programme>
+  <programme start="20210715092500 +0100" stop="20210715093500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.44</title>
+  </programme>
+  <programme start="20210715093500 +0100" stop="20210715095000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.47</title>
+  </programme>
+  <programme start="20210715095000 +0100" stop="20210715101000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.48</title>
+  </programme>
+  <programme start="20210715101000 +0100" stop="20210715102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.10</title>
+  </programme>
+  <programme start="20210715102000 +0100" stop="20210715103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.11</title>
+  </programme>
+  <programme start="20210715103000 +0100" stop="20210715104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715104000 +0100" stop="20210715105000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715105000 +0100" stop="20210715105500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715105500 +0100" stop="20210715110500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">ExperimentArte T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715110500 +0100" stop="20210715112000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715112000 +0100" stop="20210715113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Monstrolândia T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715113500 +0100" stop="20210715120000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Drama Total All-Stars T.1 Ep.9</title>
+  </programme>
+  <programme start="20210715120000 +0100" stop="20210715130000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Chegou a Felicidade T.2 Ep.17</title>
+  </programme>
+  <programme start="20210715130000 +0100" stop="20210715133000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Freguesias da Madeira T.1 Ep.3</title>
+  </programme>
+  <programme start="20210715133000 +0100" stop="20210715140000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Novas Viagens Philosophicas T.1 Ep.4</title>
+  </programme>
+  <programme start="20210715140000 +0100" stop="20210715140500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210715140500 +0100" stop="20210715143500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20210715143500 +0100" stop="20210715165000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.18</title>
+  </programme>
+  <programme start="20210715165000 +0100" stop="20210715170000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cuidado com a Língua! T.4 Ep.8</title>
+  </programme>
+  <programme start="20210715170000 +0100" stop="20210715172000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.41</title>
+  </programme>
+  <programme start="20210715172000 +0100" stop="20210715173000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.22</title>
+  </programme>
+  <programme start="20210715173000 +0100" stop="20210715174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.20</title>
+  </programme>
+  <programme start="20210715174000 +0100" stop="20210715175000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.45</title>
+  </programme>
+  <programme start="20210715175000 +0100" stop="20210715180000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.46</title>
+  </programme>
+  <programme start="20210715180000 +0100" stop="20210715181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.27</title>
+  </programme>
+  <programme start="20210715181000 +0100" stop="20210715182000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.28</title>
+  </programme>
+  <programme start="20210715182000 +0100" stop="20210715183000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.13</title>
+  </programme>
+  <programme start="20210715183000 +0100" stop="20210715184000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.14</title>
+  </programme>
+  <programme start="20210715184000 +0100" stop="20210715185000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.7</title>
+  </programme>
+  <programme start="20210715185000 +0100" stop="20210715190500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.8</title>
+  </programme>
+  <programme start="20210715190500 +0100" stop="20210715191500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.36</title>
+  </programme>
+  <programme start="20210715191500 +0100" stop="20210715193000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.37</title>
+  </programme>
+  <programme start="20210715193000 +0100" stop="20210715195000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Covil@ZigZag T.1 Ep.14</title>
+  </programme>
+  <programme start="20210715195000 +0100" stop="20210715201500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.11</title>
+  </programme>
+  <programme start="20210715201500 +0100" stop="20210715202000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.8</title>
+  </programme>
+  <programme start="20210715202000 +0100" stop="20210715202500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.96</title>
+  </programme>
+  <programme start="20210715202500 +0100" stop="20210715203000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.1 Ep.8</title>
+  </programme>
+  <programme start="20210715203000 +0100" stop="20210715212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Francisco Lázaro - Mais Longe Mais Depressa</title>
+  </programme>
+  <programme start="20210715212500 +0100" stop="20210715213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210715213000 +0100" stop="20210715220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210715220000 +0100" stop="20210715230000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Amsterdam em Chamas T.1 Ep.1</title>
+  </programme>
+  <programme start="20210715230000 +0100" stop="20210716003500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Centro de Dia</title>
+  </programme>
+  <programme start="20210716003500 +0100" stop="20210716013000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Barão Negro T.3 Ep.1</title>
+  </programme>
+  <programme start="20210716013000 +0100" stop="20210716054500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210716054500 +0100" stop="20210716063200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Água de Mar T.1 Ep.33</title>
+  </programme>
+  <programme start="20210716063200 +0100" stop="20210716070200 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+  </programme>
+  <programme start="20210716070200 +0100" stop="20210716072600 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.46</title>
+  </programme>
+  <programme start="20210716072600 +0100" stop="20210716074000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Kid Lucky T.1 Ep.34</title>
+  </programme>
+  <programme start="20210716074000 +0100" stop="20210716075000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.25</title>
+  </programme>
+  <programme start="20210716075000 +0100" stop="20210716075500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.25</title>
+  </programme>
+  <programme start="20210716075500 +0100" stop="20210716080000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mia Go T.1 Ep.80</title>
+  </programme>
+  <programme start="20210716080000 +0100" stop="20210716081000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.12</title>
+  </programme>
+  <programme start="20210716081000 +0100" stop="20210716082000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Bing T.3 Ep.13</title>
+  </programme>
+  <programme start="20210716082000 +0100" stop="20210716083000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.19</title>
+  </programme>
+  <programme start="20210716083000 +0100" stop="20210716084000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.20</title>
+  </programme>
+  <programme start="20210716084000 +0100" stop="20210716085000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Octonautas T.1 Ep.9</title>
+  </programme>
+  <programme start="20210716085000 +0100" stop="20210716090000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.37</title>
+  </programme>
+  <programme start="20210716090000 +0100" stop="20210716091000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.38</title>
+  </programme>
+  <programme start="20210716091000 +0100" stop="20210716091500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.132</title>
+  </programme>
+  <programme start="20210716091500 +0100" stop="20210716092500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.44</title>
+  </programme>
+  <programme start="20210716092500 +0100" stop="20210716093500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Mouk T.1 Ep.45</title>
+  </programme>
+  <programme start="20210716093500 +0100" stop="20210716095000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.49</title>
+  </programme>
+  <programme start="20210716095000 +0100" stop="20210716101000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.50</title>
+  </programme>
+  <programme start="20210716101000 +0100" stop="20210716102000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.11</title>
+  </programme>
+  <programme start="20210716102000 +0100" stop="20210716103000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Blinky Bill T.1 Ep.12</title>
+  </programme>
+  <programme start="20210716103000 +0100" stop="20210716104000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ao Resgate da Selva T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716104000 +0100" stop="20210716105000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Missão Abóbora T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716105000 +0100" stop="20210716105500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716105500 +0100" stop="20210716110500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">ExperimentArte T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716110500 +0100" stop="20210716112000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Exploradores da Natureza T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716112000 +0100" stop="20210716113500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Monstrolândia T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716113500 +0100" stop="20210716120000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Drama Total All-Stars T.1 Ep.10</title>
+  </programme>
+  <programme start="20210716120000 +0100" stop="20210716130000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Chegou a Felicidade T.2 Ep.18</title>
+  </programme>
+  <programme start="20210716130000 +0100" stop="20210716132500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Esec-Tv T.13 Ep.28</title>
+  </programme>
+  <programme start="20210716132500 +0100" stop="20210716134500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Universidade do Nosso Tempo T.1 Ep.7</title>
+  </programme>
+  <programme start="20210716134500 +0100" stop="20210716135000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210716135000 +0100" stop="20210716142000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">A Fé dos Homens</title>
+  </programme>
+  <programme start="20210716142000 +0100" stop="20210716164000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ciclismo: Volta a França 2021 T.1 Ep.19</title>
+  </programme>
+  <programme start="20210716164000 +0100" stop="20210716170000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">De Lisboa a Estocolmo T.1 Ep.8</title>
+  </programme>
+  <programme start="20210716170000 +0100" stop="20210716172000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wow Wow Wubbzy T.1 Ep.42</title>
+  </programme>
+  <programme start="20210716172000 +0100" stop="20210716173000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">O Vale Encantado T.2 Ep.23</title>
+  </programme>
+  <programme start="20210716173000 +0100" stop="20210716174000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Molang T.3 Ep.21</title>
+  </programme>
+  <programme start="20210716174000 +0100" stop="20210716175000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.47</title>
+  </programme>
+  <programme start="20210716175000 +0100" stop="20210716180000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu? T.1 Ep.48</title>
+  </programme>
+  <programme start="20210716180000 +0100" stop="20210716181000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.29</title>
+  </programme>
+  <programme start="20210716181000 +0100" stop="20210716182000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Wissper T.2 Ep.30</title>
+  </programme>
+  <programme start="20210716182000 +0100" stop="20210716183000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.15</title>
+  </programme>
+  <programme start="20210716183000 +0100" stop="20210716184000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Regras do Ângelo T.2 Ep.16</title>
+  </programme>
+  <programme start="20210716184000 +0100" stop="20210716185000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.8</title>
+  </programme>
+  <programme start="20210716185000 +0100" stop="20210716190000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Rocky Kwaternário T.1 Ep.9</title>
+  </programme>
+  <programme start="20210716190000 +0100" stop="20210716191000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Radar XS T.3 Ep.132</title>
+  </programme>
+  <programme start="20210716191000 +0100" stop="20210716192000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.38</title>
+  </programme>
+  <programme start="20210716192000 +0100" stop="20210716193000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Ensina-me Se Conseguires T.1 Ep.39</title>
+  </programme>
+  <programme start="20210716193000 +0100" stop="20210716195000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Falar Para o Boneco T.1 Ep.7</title>
+  </programme>
+  <programme start="20210716195000 +0100" stop="20210716201500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Cleópatra no Espaço T.1 Ep.12</title>
+  </programme>
+  <programme start="20210716201500 +0100" stop="20210716202000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Athleticus T.1 Ep.9</title>
+  </programme>
+  <programme start="20210716202000 +0100" stop="20210716202500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Peanuts T.1 Ep.97</title>
+  </programme>
+  <programme start="20210716202500 +0100" stop="20210716203000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Banda Zig Zag T.1 Ep.8</title>
+  </programme>
+  <programme start="20210716203000 +0100" stop="20210716212500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">As Grandes Mentiras da História T.1 Ep.12</title>
+  </programme>
+  <programme start="20210716212500 +0100" stop="20210716213000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210716213000 +0100" stop="20210716220000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210716220000 +0100" stop="20210716224500 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Amsterdam em Chamas T.1 Ep.2</title>
+  </programme>
+  <programme start="20210716224500 +0100" stop="20210717002000 +0100" channel="VIP:PT - RTP 2">
+    <title lang="pt">Experimenter: Stanley Milgram, o Psicólogo que Abalou a América</title>
+  </programme>
+  <programme start="20210710002500 +0100" stop="20210710012500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Edição da Noite T.4 Ep.30</title>
+  </programme>
+  <programme start="20210710012500 +0100" stop="20210710024500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Golpe de Sorte - Edição Especial T.1 Ep.47</title>
+  </programme>
+  <programme start="20210710024500 +0100" stop="20210710034500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.126</title>
+  </programme>
+  <programme start="20210710034500 +0100" stop="20210710060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210710060000 +0100" stop="20210710064500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Etnias T.21 Ep.28</title>
+  </programme>
+  <programme start="20210710064500 +0100" stop="20210710080000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Uma Aventura T.3 Ep.7</title>
+  </programme>
+  <programme start="20210710080000 +0100" stop="20210710090000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Uma Aventura T.3 Ep.8</title>
+  </programme>
+  <programme start="20210710090000 +0100" stop="20210710120000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Estamos Em Casa T.1 Ep.27</title>
+  </programme>
+  <programme start="20210710120000 +0100" stop="20210710130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Nosso Mundo T.1 Ep.222</title>
+  </programme>
+  <programme start="20210710130000 +0100" stop="20210710141500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210710141500 +0100" stop="20210710150000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alta Definição T.3 Ep.23</title>
+  </programme>
+  <programme start="20210710150000 +0100" stop="20210710154500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">E-Especial T.3 Ep.27</title>
+  </programme>
+  <programme start="20210710154500 +0100" stop="20210710200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Marco Paulo T.1 Ep.6</title>
+  </programme>
+  <programme start="20210710200000 +0100" stop="20210710214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210710214500 +0100" stop="20210710230000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Terra Nossa</title>
+  </programme>
+  <programme start="20210710230000 +0100" stop="20210711014500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.6</title>
+  </programme>
+  <programme start="20210711014500 +0100" stop="20210711030000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Regresso Ao Futuro T.1 Ep.3</title>
+  </programme>
+  <programme start="20210711030000 +0100" stop="20210711043000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Billy Elliot</title>
+  </programme>
+  <programme start="20210711043000 +0100" stop="20210711053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210711053000 +0100" stop="20210711060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, o Presidente T.2 Ep.11</title>
+  </programme>
+  <programme start="20210711060000 +0100" stop="20210711061500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210711061500 +0100" stop="20210711064500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Marvel's Spiderman T.2 Ep.19</title>
+  </programme>
+  <programme start="20210711064500 +0100" stop="20210711073000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Uma Aventura T.3 Ep.11</title>
+  </programme>
+  <programme start="20210711073000 +0100" stop="20210711090000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Cantar! (VP)</title>
+  </programme>
+  <programme start="20210711090000 +0100" stop="20210711120000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Olhá SIC! T.1 Ep.22</title>
+  </programme>
+  <programme start="20210711120000 +0100" stop="20210711130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Vida Selvagem</title>
+  </programme>
+  <programme start="20210711130000 +0100" stop="20210711141500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210711141500 +0100" stop="20210711150000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Fama Show T.3 Ep.27</title>
+  </programme>
+  <programme start="20210711150000 +0100" stop="20210711200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Domingão T.2 Ep.27</title>
+  </programme>
+  <programme start="20210711200000 +0100" stop="20210711214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210711214500 +0100" stop="20210712010000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.7</title>
+  </programme>
+  <programme start="20210712010000 +0100" stop="20210712053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Cinema Em Casa o Planeta dos Macacos: A Guerra</title>
+  </programme>
+  <programme start="20210712053000 +0100" stop="20210712060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, o Presidente T.2 Ep.12</title>
+  </programme>
+  <programme start="20210712060000 +0100" stop="20210712083000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20210712083000 +0100" stop="20210712100000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Portugal T.13 Ep.135</title>
+  </programme>
+  <programme start="20210712100000 +0100" stop="20210712130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Casa Feliz T.2 Ep.136</title>
+  </programme>
+  <programme start="20210712130000 +0100" stop="20210712144500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210712144500 +0100" stop="20210712160000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.127</title>
+  </programme>
+  <programme start="20210712160000 +0100" stop="20210712180000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Júlia T.4 Ep.132</title>
+  </programme>
+  <programme start="20210712180000 +0100" stop="20210712184500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Viver a Vida T.1 Ep.170</title>
+  </programme>
+  <programme start="20210712184500 +0100" stop="20210712191500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Orgulho e Paixão T.1 Ep.37</title>
+  </programme>
+  <programme start="20210712191500 +0100" stop="20210712200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.31</title>
+  </programme>
+  <programme start="20210712200000 +0100" stop="20210712214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210712214500 +0100" stop="20210712224500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Amor, Amor T.1 Ep.141</title>
+  </programme>
+  <programme start="20210712224500 +0100" stop="20210712233000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">A Serra T.1 Ep.101</title>
+  </programme>
+  <programme start="20210712233000 +0100" stop="20210712234500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com a Agricultora? T.4 Ep.31</title>
+  </programme>
+  <programme start="20210712234500 +0100" stop="20210713003000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Tempo de Amar T.1 Ep.106</title>
+  </programme>
+  <programme start="20210713003000 +0100" stop="20210713010000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Edição da Noite T.4 Ep.31</title>
+  </programme>
+  <programme start="20210713010000 +0100" stop="20210713014500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Golpe de Sorte T.1 Ep.48</title>
+  </programme>
+  <programme start="20210713014500 +0100" stop="20210713024500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Passadeira Vermelha T.8 Ep.136</title>
+  </programme>
+  <programme start="20210713024500 +0100" stop="20210713053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.127</title>
+  </programme>
+  <programme start="20210713053000 +0100" stop="20210713060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, o Presidente T.2 Ep.13</title>
+  </programme>
+  <programme start="20210713060000 +0100" stop="20210713083000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20210713083000 +0100" stop="20210713100000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Portugal T.13 Ep.136</title>
+  </programme>
+  <programme start="20210713100000 +0100" stop="20210713130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Casa Feliz T.2 Ep.137</title>
+  </programme>
+  <programme start="20210713130000 +0100" stop="20210713144500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210713144500 +0100" stop="20210713160000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.128</title>
+  </programme>
+  <programme start="20210713160000 +0100" stop="20210713180000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Júlia T.4 Ep.133</title>
+  </programme>
+  <programme start="20210713180000 +0100" stop="20210713184500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Viver a Vida T.1 Ep.171</title>
+  </programme>
+  <programme start="20210713184500 +0100" stop="20210713191500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Orgulho e Paixão T.1 Ep.38</title>
+  </programme>
+  <programme start="20210713191500 +0100" stop="20210713200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.32</title>
+  </programme>
+  <programme start="20210713200000 +0100" stop="20210713214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210713214500 +0100" stop="20210713224500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Amor, Amor T.1 Ep.142</title>
+  </programme>
+  <programme start="20210713224500 +0100" stop="20210713233000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">A Serra T.1 Ep.102</title>
+  </programme>
+  <programme start="20210713233000 +0100" stop="20210713234500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com a Agricultora? T.4 Ep.32</title>
+  </programme>
+  <programme start="20210713234500 +0100" stop="20210714003000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Tempo de Amar T.1 Ep.107</title>
+  </programme>
+  <programme start="20210714003000 +0100" stop="20210714010000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Edição da Noite T.4 Ep.32</title>
+  </programme>
+  <programme start="20210714010000 +0100" stop="20210714014500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Golpe de Sorte T.1 Ep.49</title>
+  </programme>
+  <programme start="20210714014500 +0100" stop="20210714024500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Passadeira Vermelha T.8 Ep.137</title>
+  </programme>
+  <programme start="20210714024500 +0100" stop="20210714053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.128</title>
+  </programme>
+  <programme start="20210714053000 +0100" stop="20210714060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, o Presidente T.2 Ep.14</title>
+  </programme>
+  <programme start="20210714060000 +0100" stop="20210714083000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20210714083000 +0100" stop="20210714100000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Portugal T.13 Ep.137</title>
+  </programme>
+  <programme start="20210714100000 +0100" stop="20210714130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Casa Feliz T.2 Ep.138</title>
+  </programme>
+  <programme start="20210714130000 +0100" stop="20210714144500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210714144500 +0100" stop="20210714160000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.129</title>
+  </programme>
+  <programme start="20210714160000 +0100" stop="20210714180000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Júlia T.4 Ep.134</title>
+  </programme>
+  <programme start="20210714180000 +0100" stop="20210714184500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Viver a Vida T.1 Ep.172</title>
+  </programme>
+  <programme start="20210714184500 +0100" stop="20210714191500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Orgulho e Paixão T.1 Ep.39</title>
+  </programme>
+  <programme start="20210714191500 +0100" stop="20210714200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.33</title>
+  </programme>
+  <programme start="20210714200000 +0100" stop="20210714214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210714214500 +0100" stop="20210714224500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Amor, Amor T.1 Ep.143</title>
+  </programme>
+  <programme start="20210714224500 +0100" stop="20210714233000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">A Serra T.1 Ep.103</title>
+  </programme>
+  <programme start="20210714233000 +0100" stop="20210714234500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com a Agricultora? T.4 Ep.33</title>
+  </programme>
+  <programme start="20210714234500 +0100" stop="20210715003000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Tempo de Amar T.1 Ep.108</title>
+  </programme>
+  <programme start="20210715003000 +0100" stop="20210715010000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Edição da Noite T.4 Ep.33</title>
+  </programme>
+  <programme start="20210715010000 +0100" stop="20210715014500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Golpe de Sorte T.1 Ep.50</title>
+  </programme>
+  <programme start="20210715014500 +0100" stop="20210715024500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Passadeira Vermelha T.8 Ep.138</title>
+  </programme>
+  <programme start="20210715024500 +0100" stop="20210715053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.129</title>
+  </programme>
+  <programme start="20210715053000 +0100" stop="20210715060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, O Presidente T.2 Ep.15</title>
+  </programme>
+  <programme start="20210715060000 +0100" stop="20210715083000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20210715083000 +0100" stop="20210715100000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Portugal T.13 Ep.138</title>
+  </programme>
+  <programme start="20210715100000 +0100" stop="20210715130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Casa Feliz T.2 Ep.139</title>
+  </programme>
+  <programme start="20210715130000 +0100" stop="20210715144500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210715144500 +0100" stop="20210715160000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.130</title>
+  </programme>
+  <programme start="20210715160000 +0100" stop="20210715180000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Júlia T.4 Ep.135</title>
+  </programme>
+  <programme start="20210715180000 +0100" stop="20210715184500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Viver a Vida T.1 Ep.173</title>
+  </programme>
+  <programme start="20210715184500 +0100" stop="20210715191500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Orgulho e Paixão T.1 Ep.40</title>
+  </programme>
+  <programme start="20210715191500 +0100" stop="20210715200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.34</title>
+  </programme>
+  <programme start="20210715200000 +0100" stop="20210715214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210715214500 +0100" stop="20210715224500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Amor, Amor T.1 Ep.144</title>
+  </programme>
+  <programme start="20210715224500 +0100" stop="20210715233000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">A Serra T.1 Ep.104</title>
+  </programme>
+  <programme start="20210715233000 +0100" stop="20210715234500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com a Agricultora? T.4 Ep.34</title>
+  </programme>
+  <programme start="20210715234500 +0100" stop="20210716003000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Tempo de Amar T.1 Ep.109</title>
+  </programme>
+  <programme start="20210716003000 +0100" stop="20210716010000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? - Edição da Noite T.4 Ep.34</title>
+  </programme>
+  <programme start="20210716010000 +0100" stop="20210716014500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Golpe de Sorte T.1 Ep.51</title>
+  </programme>
+  <programme start="20210716014500 +0100" stop="20210716021500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Original é a Cultura T.3 Ep.5</title>
+  </programme>
+  <programme start="20210716021500 +0100" stop="20210716024500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Volante T.21 Ep.13</title>
+  </programme>
+  <programme start="20210716024500 +0100" stop="20210716031500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Advnce T.1 Ep.30</title>
+  </programme>
+  <programme start="20210716031500 +0100" stop="20210716040000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Passadeira Vermelha T.8 Ep.139</title>
+  </programme>
+  <programme start="20210716040000 +0100" stop="20210716053000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210716053000 +0100" stop="20210716060000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Camilo, O Presidente T.2 Ep.16</title>
+  </programme>
+  <programme start="20210716060000 +0100" stop="20210716083000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Edição da Manhã</title>
+  </programme>
+  <programme start="20210716083000 +0100" stop="20210716100000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Alô Portugal T.13 Ep.139</title>
+  </programme>
+  <programme start="20210716100000 +0100" stop="20210716130000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Casa Feliz T.2 Ep.140</title>
+  </programme>
+  <programme start="20210716130000 +0100" stop="20210716144500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210716144500 +0100" stop="20210716160000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Linha Aberta T.7 Ep.131</title>
+  </programme>
+  <programme start="20210716160000 +0100" stop="20210716180000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Júlia T.4 Ep.136</title>
+  </programme>
+  <programme start="20210716180000 +0100" stop="20210716184500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Viver a Vida T.1 Ep.174</title>
+  </programme>
+  <programme start="20210716184500 +0100" stop="20210716191500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Orgulho e Paixão T.1 Ep.41</title>
+  </programme>
+  <programme start="20210716191500 +0100" stop="20210716200000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor? T.4 Ep.35</title>
+  </programme>
+  <programme start="20210716200000 +0100" stop="20210716214500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20210716214500 +0100" stop="20210716224500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Amor, Amor T.1 Ep.145</title>
+  </programme>
+  <programme start="20210716224500 +0100" stop="20210716233000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">A Serra T.1 Ep.105</title>
+  </programme>
+  <programme start="20210716233000 +0100" stop="20210716234500 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Quem Quer Namorar com a Agricultora? T.4 Ep.35</title>
+  </programme>
+  <programme start="20210716234500 +0100" stop="20210717003000 +0100" channel="VIP:PT - SIC">
+    <title lang="pt">Tempo de Amar T.1 Ep.110</title>
+  </programme>
+  <programme start="20210710000500 +0100" stop="20210710011200 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Mulheres T.1 Ep.97</title>
+  </programme>
+  <programme start="20210710011200 +0100" stop="20210710013000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Diário do Euro</title>
+  </programme>
+  <programme start="20210710013000 +0100" stop="20210710022100 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Chicago P.D. T2</title>
+  </programme>
+  <programme start="20210710022100 +0100" stop="20210710031000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Chicago P.D. T2</title>
+  </programme>
+  <programme start="20210710031000 +0100" stop="20210710032800 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Doce Tentação T.1 Ep.84</title>
+  </programme>
+  <programme start="20210710032800 +0100" stop="20210710041500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Fascínios T.1 Ep.91</title>
+  </programme>
+  <programme start="20210710041500 +0100" stop="20210710054500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210710054500 +0100" stop="20210710060000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210710060000 +0100" stop="20210710062300 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">George, o Curioso</title>
+  </programme>
+  <programme start="20210710062300 +0100" stop="20210710073000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Detective Maravilhas</title>
+  </programme>
+  <programme start="20210710073000 +0100" stop="20210710081500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Campeões e Detectives</title>
+  </programme>
+  <programme start="20210710081500 +0100" stop="20210710090000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Diário da Manhã - Fim de Semana</title>
+  </programme>
+  <programme start="20210710090000 +0100" stop="20210710100000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Vida Animal</title>
+  </programme>
+  <programme start="20210710100000 +0100" stop="20210710110000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Inspetor Max</title>
+  </programme>
+  <programme start="20210710110000 +0100" stop="20210710120000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Querido, Mudei a Casa!</title>
+  </programme>
+  <programme start="20210710120000 +0100" stop="20210710130000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">VivaVida</title>
+  </programme>
+  <programme start="20210710130000 +0100" stop="20210710140000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20210710140000 +0100" stop="20210710150000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Conta-me - Filipe La Féria</title>
+  </programme>
+  <programme start="20210710150000 +0100" stop="20210710195700 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Em Família</title>
+  </programme>
+  <programme start="20210710195700 +0100" stop="20210710214500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20210710214500 +0100" stop="20210710230000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Bem Me Quer T.1 Ep.207</title>
+  </programme>
+  <programme start="20210710230000 +0100" stop="20210711010000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">O Amor Acontece - Compacto</title>
+  </programme>
+  <programme start="20210711010000 +0100" stop="20210711013000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Diário do Euro</title>
+  </programme>
+  <programme start="20210711013000 +0100" stop="20210711014500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">GTI</title>
+  </programme>
+  <programme start="20210711014500 +0100" stop="20210711033000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Um Dia</title>
+  </programme>
+  <programme start="20210711033000 +0100" stop="20210711041500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Fascínios T.1 Ep.92</title>
+  </programme>
+  <programme start="20210711041500 +0100" stop="20210711054500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210711054500 +0100" stop="20210711060000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20210711060000 +0100" stop="20210711062300 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">George, o Curioso</title>
+  </programme>
+  <programme start="20210711062300 +0100" stop="20210711065400 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Todos Iguais</title>
+  </programme>
+  <programme start="20210711065400 +0100" stop="20210711075500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">O Bando dos Quatro</title>
+  </programme>
+  <programme start="20210711075500 +0100" stop="20210711101500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Diário da Manhã - Fim de Semana</title>
+  </programme>
+  <programme start="20210711101500 +0100" stop="20210711111000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Querido, Mudei a Casa!</title>
+  </programme>
+  <programme start="20210711111000 +0100" stop="20210711123500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Missa - Turquel - Alcobaça</title>
+  </programme>
+  <programme start="20210711123500 +0100" stop="20210711130000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Mesa Nacional</title>
+  </programme>
+  <programme start="20210711130000 +0100" stop="20210711140000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Jornal da Uma</title>
+  </programme>
+  <programme start="20210711140000 +0100" stop="20210711195700 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Somos Portugal</title>
+  </programme>
+  <programme start="20210711195700 +0100" stop="20210711214500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Jornal das 8</title>
+  </programme>
+  <programme start="20210711214500 +0100" stop="20210712001500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">O Amor Acontece</title>
+  </programme>
+  <programme start="20210712001500 +0100" stop="20210712011500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Mulheres T.1 Ep.98</title>
+  </programme>
+  <programme start="20210712011500 +0100" stop="20210712014500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Diário do Euro</title>
+  </programme>
+  <programme start="20210712014500 +0100" stop="20210712031500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Lucy (2014)</title>
+  </programme>
+  <programme start="20210712031500 +0100" stop="20210712041500 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Fascínios T.1 Ep.93</title>
+  </programme>
+  <programme start="20210712041500 +0100" stop="20210712060000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20210712060000 +0100" stop="20210712120000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210712120000 +0100" stop="20210712180000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210712180000 +0100" stop="20210713000000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210713000000 +0100" stop="20210713080000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210713080000 +0100" stop="20210713160000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210713160000 +0100" stop="20210714000000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210714000000 +0100" stop="20210714080000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210714080000 +0100" stop="20210714160000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210714160000 +0100" stop="20210715000000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210715000000 +0100" stop="20210715080000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210715080000 +0100" stop="20210715160000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210715160000 +0100" stop="20210716000000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210716000000 +0100" stop="20210716080000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210716080000 +0100" stop="20210716160000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+  <programme start="20210716160000 +0100" stop="20210717000000 +0100" channel="VIP:PT - TVI">
+    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  </programme>
+</tv>
